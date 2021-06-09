@@ -1,5 +1,7 @@
 <h2>Hello!! ----  I'm Monica ----- <img src="https://media.giphy.com/media/3oge7Ve0gmIOhJkhOg/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="230">
+
+<img align='right' src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="230">
+
 <p><em> Software Engineer  </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wondermony?label=Follow)](https://twitter.com/intent/follow?screen_name=wondermony)
