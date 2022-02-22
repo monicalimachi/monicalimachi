@@ -10,8 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/wondermony?label=Follow)](https://twitter.com/intent/follow?screen_name=wondermony)
 [![Linkedin: Mony](https://img.shields.io/badge/Follow-blue?style=?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/monica-limachi-lopez)](https://www.linkedin.com/in/monica-limachi-lopez/)
 ![GitHub followers](https://img.shields.io/github/followers/monicalimachi?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://monica-limachi.me/)](https://monica-limachi.me/)
-
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://monica-limachi.cloud/)](https://monica-limachi.cloud/)
 ---
     
 ### <img src="https://media.giphy.com/media/X9wZY0FtBmwHCp8QBm/giphy.gif" width="50"> A little more about me...  
@@ -19,12 +18,12 @@
 ```javascript
 const mony = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "Java", "php"],
-    askMeAbout: ["cloudops", "tech", "software developer","quality", "volunteer"],
+    code: ["Javascript", "Python", "Go", "PhP"],
+    askMeAbout: ["cloudops", "tech", "software developer","quality", "devops"],
     technologies: {
         devOps: ["GCP","AWS", "Docker🐳", "Route53", "Nginx","K8s","Terraform"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","Automation"]
+        databases: ["Mongo", "MySql", "SqL"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-source", "SuiteApp","Automation"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
     currentFocus: "Cloud Ops and Quality",
