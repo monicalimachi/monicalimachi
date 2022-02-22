@@ -1,10 +1,11 @@
-<h2> Hello!!  I'm Monica  <img src="https://media.giphy.com/media/3oge7Ve0gmIOhJkhOg/giphy.gif" width="60"></h2>
+<h2> Hello!! :wave: I'm Monica </h2>
 
-<img align='right' src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="230">
-
-<p><em> I'm a Software Engineer  </em></p>
-<p>📚 Enjoy learning languages  </p>
-<p>💻 Enjoy learning coding  </p>
+<img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
+<br>
+<p>***<em> :standing_woman: I'm a DevOps  </em>***</p>
+<p>📚 :woman_student: Enjoy learning languages  </p>
+<p>💻 :woman_technologist: Enjoy learning coding  </p>
+<p>💻 :cloud: Enjoy learning about cloud tools  </p>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wondermony?label=Follow)](https://twitter.com/intent/follow?screen_name=wondermony)
@@ -16,7 +17,7 @@
 ### <img src="https://media.giphy.com/media/X9wZY0FtBmwHCp8QBm/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const mony = {
+const monica = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Python", "Go", "PhP"],
     askMeAbout: ["cloudops", "tech", "software developer","quality", "devops"],
@@ -31,6 +32,6 @@ const mony = {
 };
 ```
 
-<img src="https://media.giphy.com/media/ExMGjbktr4phe/giphy.gif" width="70"> <em><b>You can contact me</b> and if you love cats <b>hi, I'll be more happy to meet you!!</b> </em>
+<img src="https://media.giphy.com/media/ExMGjbktr4phe/giphy.gif" width="70"> <em><b>Follow my social links to contact me</b> </em>
 
 ---
