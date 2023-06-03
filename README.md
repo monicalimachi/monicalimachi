@@ -2,10 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="230">
 <br>
-<p>***<em> :standing_woman: I'm a DevOps  </em>***</p>
+<p>***<em> :standing_woman: I'm a Cloud Engineer  </em>***</p>
 <p>📚 :woman_student: Enjoy learning languages  </p>
 <p>💻 :woman_technologist: Enjoy learning coding  </p>
-<p>💻 :cloud: Enjoy learning about cloud tools  </p>
+<p>💻 :cloud: Enjoy learning about cloud tools and DevOps Culture </p>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wondermony?label=Follow)](https://twitter.com/intent/follow?screen_name=wondermony)
